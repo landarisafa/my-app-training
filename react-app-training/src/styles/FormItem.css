@@ -1,0 +1,35 @@
+.drawer-header-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 20px;
+}
+
+.section-title {
+    display: flex;
+    flex-direction: column;
+}
+
+.drawer-title {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.drawer-subtitle {
+    color: gray;
+    font-size: 12px;
+}
+
+.drawer-close-icon {
+    font-size: 15px;
+    margin-top: 5px;
+}
+
+.drawer-content-section {}
+
+.drawer-footer-section {
+    position: absolute;
+    bottom: 20px;
+    right: 15px;
+}

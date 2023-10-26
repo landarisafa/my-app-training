@@ -1,0 +1,22 @@
+.title-page-section {
+    padding: 0 1rem 1rem 1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.title-section {
+    display: flex;
+    flex-direction: column;
+}
+
+.title-item {
+    font-weight: bold;
+    font-size: 25px;
+    color: #081c3ed4;
+}
+
+.subtitle-item {
+    color: gray;
+}
